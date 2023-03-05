@@ -30,7 +30,7 @@ public class S2_2021 {
 	    }
 	}
 	
-	public void solve(String[] args) {
+	public void solve() {
 
 	    int r = 0;
 	    for(int i=0;i<row.length;i++){
